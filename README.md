@@ -17,14 +17,14 @@ Criar uma API capaz de:
 
 ## 📦 Estrutura do projeto
 
-├── app/
-│   └── models, views, urls
-├── services/
-│   └── lógica de envio de webhooks
-├── webhooks/
-│   └── endpoints para receber notificações
-├── manage.py
-├── requirements.txt
+- ├── app/
+- │   └── models, views, urls
+- ├── services/
+- │   └── lógica de envio de webhooks
+- ├── webhooks/
+- │   └── endpoints para receber notificações
+- ├── manage.py
+- ├── requirements.txt
 
 
 ## 🔧 Como executar
