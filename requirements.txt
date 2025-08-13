@@ -1,0 +1,16 @@
+asgiref==3.9.1
+cached-property==2.0.1
+certifi==2025.8.3
+charset-normalizer==3.4.3
+Django==5.2.5
+djangorestframework==3.16.1
+idna==3.10
+python-decouple==3.8
+requests==2.32.4
+sqlparse==0.5.3
+standardjson==0.3.1
+tzdata==2025.2
+urllib3==2.5.0
+uuid==1.30
+webhooks==0.4.2
+wrapt==1.17.3
