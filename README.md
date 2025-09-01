@@ -22,8 +22,6 @@ Execute o projeto com Python
 
 ## 💎 Stacks utilizadas
 
-**Front-end:** HTML5
-
 **Back-end:** Python, Django, Django REST Framework, Requests, UUID
 
  **Database:** SQLite
