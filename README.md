@@ -2,12 +2,20 @@
 
 ---
 
+### English Version
+
 A Django-based inventory management system enhanced with **webhook integration** to enable real-time communication between services. This project builds upon traditional inventory control by allowing external systems to receive updates when products are created, updated, or deleted.
+
+### PT/BR
 
 Um sistema de gestão de estoque baseado em Django com integração via **webhooks**, permitindo comunicação em tempo real entre serviços. O projeto expande o controle tradicional de estoque ao permitir que sistemas externos recebam notificações quando produtos são criados, atualizados ou excluídos.
 
+
+### English Version
 Note: these webhooks are a continuation of the inventory management system, follow the link of the project: https://github.com/GabrielDLobo/02-Inventory-Management-System
 
+
+### PT/BR
 Observação: estes webhooks são uma continuação do projeto inventory management system, segue o link do projeto principal: https://github.com/GabrielDLobo/02-Inventory-Management-System
 
 ---
